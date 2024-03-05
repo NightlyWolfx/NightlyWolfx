@@ -4,7 +4,7 @@ I'm Andra / Nightly, welcome to my GitHub profile! <img src="https://raw.githubu
 
 ### About me:
 
-- Passionate, creative and adaptable software developer.
+- Driven, creative and adaptable software developer.
 
 ### Take a look at what I've developed!
 
